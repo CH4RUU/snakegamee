@@ -5,7 +5,7 @@
 }
 
 .body{
-    background: url("https://raw.githubusercontent.com/CH4RUU/snakegamee/main/bg.jpg"); 
+    background: url("bg.jpg"); 
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
