@@ -8,7 +8,7 @@ Welcome to snakegame , a project by [Charu](https://github.com/CH4RUU).
 https://ch4ruu.github.io/snakegamee/
 <h2 align="center">Overview</h2>
 
-**TicTacToe** is a simple yet engaging game built using modern web technologies. This project demonstrates fundamental game logic and UI design for a classic two-player game.
+Snake Game is a classic arcade game where players control a growing snake and navigate it to eat food while avoiding collisions. This project is built using modern web technologies and provides a fun, interactive gaming experience.
 
 <h2 align="center">Project Structure</h2>
 
